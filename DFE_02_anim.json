@@ -1,8 +1,7 @@
 {
   "context":  {
      "assetTrail":  false,
-     "UnitOfMeasureScale":  0,
-    001,
+     "UnitOfMeasureScale":  0.001,
     "Zup":  false,
      "RepoAnim":  ""
   },
