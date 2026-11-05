@@ -20,6 +20,21 @@
           } 
         } 
       ] 
+    },
+    {
+      "id":  "B2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "1000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "B2startF"
+          } 
+        } 
+      ] 
     }
   ],
    "sequences":  [],
